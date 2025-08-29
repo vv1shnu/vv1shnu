@@ -1,5 +1,4 @@
-Hi, I'm Unai, aka v (@vv1shnu__ on social media).
-I'm currently studying Computer Science in USC, and I'm interested in Software/Web development, Cybersecurity and Modeling.
+v
 
 instagram: https://www.instagram.com/vv1shnu__/
 
